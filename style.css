@@ -1,0 +1,21 @@
+*{
+    font-family: tahoma, Times, serif;
+}
+
+body{
+    background-color: #faebd7;
+}
+
+.title{
+    background-color: #FADED7;
+    text-align: center;
+}
+
+.list{
+    font-size: 18px;
+    color: black;
+}
+
+ul{
+    list-style-position: outside;
+}
